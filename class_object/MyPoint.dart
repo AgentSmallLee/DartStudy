@@ -1,0 +1,1 @@
+class MyPoint(var int x, var int y) {}
